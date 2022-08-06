@@ -1,4 +1,4 @@
-# Link
+# 两只塔姆沃斯牛
 [P1518 [USACO2.4]两只塔姆沃斯牛 The Tamworth Two](https://www.luogu.com.cn/problem/P1518)
 [AcWing 1373. 两只奶牛](https://www.acwing.com/problem/content/1375/)
 
